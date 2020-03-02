@@ -141,6 +141,11 @@ nav .sub-nav .nav-item:hover {
         height: 240px;
         padding: 20px;
     }
+
+    .gallery .img-fluid {
+        border-radius: 0;
+        padding: 0;
+    }
 }
 
 .card button {
